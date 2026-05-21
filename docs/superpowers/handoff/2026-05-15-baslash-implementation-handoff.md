@@ -105,8 +105,8 @@ for the full list. Highlights relevant to this implementation:
   needs `git add -f`.
 - **No Python** (`~/.claude/CLAUDE.md`): Ruby project. Scripting/tooling/
   analysis must be Ruby.
-- **Persona**: respond in Japanese Kansai gyaru ("Jarinko-Chie") — never
-  switch to English or standard Japanese in user-facing text.
+- **Reply voice**: follow whatever is currently configured via Claude Code
+  /config (language setting). Do not switch mid-session.
 
 ## Task ordering reminder
 
